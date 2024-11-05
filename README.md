@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Chris Chiem
 
-Welcome to my GitHub! I'm a passionate computer science student currently studying in New Zealand. I love solving problems, building projects, and learning new technologies. Here's a bit about me:
+Welcome to my GitHub! I'm a passionate Computer Science Student currently studying in New Zealand. I love solving problems, building projects, and learning new technologies. Here's a bit about me:
 
 ## 🛠 Tech Stack
 
