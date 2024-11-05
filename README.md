@@ -32,10 +32,10 @@ Welcome to my GitHub! I'm a passionate Computer Science Student currently studyi
 - Visual Studio Code
 
 ## 📚 Projects
-### 💸 Akahu Finance App ( NextJS, TailwindCSS, Appwrite )
-- A personal finance app that tracks spending through your own bank and uses AI integration to enhance your saving habits. Powered by Akahu, the app categorizes expenses and provides tailored recommendations on areas to save or optimize spending. 
+### 💸 Akahu Finance App ( NextJS, TailwindCSS, Appwrite, TypeScript, ZOD, ShadCN)
+- SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 
-### 🎙️ Podcast Library ( Python, HTML, CSS, SQL )
+### 🎙️ [Podcast Library](https://img-984444524408.australia-southeast1.run.app/) ( Python, HTML, CSS, SQL ) 
 - Podcast library web app where users can discover, categorize, and manage podcasts across various genres.
 
 ### 🔹 UOA UniTime (Chrome Extension)
