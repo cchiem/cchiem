@@ -33,13 +33,13 @@ Welcome to my GitHub! I'm a passionate Computer Science Student currently studyi
 
 ## 📚 Projects
 ### 💸 Akahu Finance App ( NextJS, TailwindCSS, Appwrite )
-- **A personal finance app that tracks spending through your own bank and uses AI integration to enhance your saving habits. Powered by Akahu, the app categorizes expenses and provides tailored recommendations on areas to save or optimize spending. 
+- A personal finance app that tracks spending through your own bank and uses AI integration to enhance your saving habits. Powered by Akahu, the app categorizes expenses and provides tailored recommendations on areas to save or optimize spending. 
 
 ### 🎙️ Podcast Library ( Python, HTML, CSS, SQL )
-- **Podcast library web app where users can discover, categorize, and manage podcasts across various genres.
+- Podcast library web app where users can discover, categorize, and manage podcasts across various genres.
 
 ### 🔹 UOA UniTime (Chrome Extension)
-- **An all-in-one Chrome extension for University of Auckland students, offering quick access to essential campus resources like class maps, live timetables, and student tools.
+- An all-in-one Chrome extension for University of Auckland students, offering quick access to essential campus resources like class maps, timetables, and student tools.
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/chris-chiem-uoa/)
