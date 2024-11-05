@@ -30,3 +30,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Student currently studyi
 ### 🧰 Tools I Use:
 - Git & GitHub
 - Visual Studio Code
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/chris-chiem-uoa/)
+- [Email](mailto:chris.chiem01@gmail.com)
