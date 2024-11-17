@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a passionate Computer Science Student currently studyi
 - Visual Studio Code
 
 ## 📚 Projects
-### 💸 Akahu Finance App ( NextJS, TailwindCSS, Appwrite, TypeScript, ZOD, ShadCN)
+### 💸 [Akahu Finance App](https://akahu-finance-app.vercel.app/sign-in) ( NextJS, TailwindCSS, Appwrite, TypeScript, ZOD, ShadCN)
 - SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 
 ### 🎙️ [Podcast Library](https://img-984444524408.australia-southeast1.run.app/) ( Python, HTML, CSS, SQL ) 
