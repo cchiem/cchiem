@@ -32,6 +32,9 @@ Welcome to my GitHub! I'm a passionate Computer Science Student currently studyi
 - Visual Studio Code
 
 ## 📚 Projects
+### 💸 [AI Menu Visualiser](https://snapmenu-phi.vercel.app/) ( NextJS, TailwindCSS, TypeScript)
+- a Web App that generates high-quality AI food images using Llama from a menu to help you decide what to order.
+
 ### 💸 [Akahu Finance App](https://akahu-finance-app.vercel.app/sign-in) ( NextJS, TailwindCSS, Appwrite, TypeScript) WIP
 - SaaS platform that connects to users bank account, displays transactions in real-time and manages their finances altogether.
   
