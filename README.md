@@ -26,25 +26,3 @@ Welcome to my GitHub! I'm a passionate Computer Science Student currently studyi
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
-### 🧰 Tools I Use:
-- Git & GitHub
-- Visual Studio Code
-
-## 📚 Projects
-### 💸 [AI Menu Visualiser](https://snapmenu-phi.vercel.app/) ( NextJS, TailwindCSS, TypeScript)
-- a Web App that generates high-quality AI food images using Llama from a menu to help you decide what to order.
-
-### 💸 [Akahu Finance App](https://akahu-finance-app.vercel.app/sign-in) ( NextJS, TailwindCSS, Appwrite, TypeScript) WIP
-- SaaS platform that connects to users bank account, displays transactions in real-time and manages their finances altogether.
-  
-
-### 🎙️ [Podcast Library](https://img-984444524408.australia-southeast1.run.app/) ( Python, HTML, CSS, SQL ) 
-- Podcast library web app where users can discover, categorize, and manage podcasts across various genres.
-
-### 🔹 UOA UniTime (Chrome Extension)
-- An all-in-one Chrome extension for University of Auckland students, offering quick access to essential campus resources like class maps, timetables, and student tools.
-
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/chris-chiem-uoa/)
-- [Email](mailto:chris.chiem01@gmail.com)
